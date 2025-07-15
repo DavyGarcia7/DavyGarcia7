@@ -4,13 +4,14 @@
 
 
    
-      ⚙️ Aprendendo:
-      
-        C 🔧
-        C# 👾
-        Java ♨️
-        Python 🐍
-        Golang 💠
+      ⚙️ Atualmente aprendendo:
+
+      Inteligência Artificial (IA)
+
+      Keras (Deep Learning)
+
+      Python
+        
         
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyGarcia7&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
  
