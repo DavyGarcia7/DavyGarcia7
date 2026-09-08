@@ -1,30 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FFFFFf&section=header&reversal=false&textBg=false&fontAlign=10&animation=twinkling&descAlign=100&stroke=3&fontColor=151515&fontAlignY=24&fontSize=25&strokeWidth=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=FFFFFF&section=header&reversal=false&textBg=false&fontAlign=10&animation=twinkling&descAlign=100&stroke=3&fontColor=ffffff&fontAlignY=24&fontSize=25&strokeWidth=45" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+my+name+Davy+Garcia+👋;I'm+24+years+old;I+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=32&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Davy+Garcia+👋;Data+Analyst+%26+SQL+Developer;Welcome+to+my+profile!+:)](https://git.io/typing-svg)
 
-# **`Analista de Dados & Desenvolvedor SQL`**
+<br><br>
 
-Olá! Me chamo **Davy Garcia**. Sou focado em **Análise de Dados** e **Desenvolvimento de Banco de Dados**, com atuação em modelagem relacional, consultas SQL/PL-SQL avançadas, otimização de rotinas e gestão de sistemas de TI. Tenho paixão por transformar dados brutos em estratégias eficientes e soluções funcionais.
+<h1 align="LEFT">Data Analyst</h1>
 
-<p align="left">
-    <a href="https://github.com/seu-usuario-github?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/seu-usuario-github?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/seu-usuario-github?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/seu-usuario-github?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
+<br>
 ### 🛠️ Especialidades & Atuação
 
 * **Banco de Dados & SQL:** Criação de queries complexas, JOINs de múltiplas tabelas, views, funções e procedimentos em PL/SQL.
@@ -35,75 +17,21 @@ Olá! Me chamo **Davy Garcia**. Sou focado em **Análise de Dados** e **Desenvol
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="SQL / Oracle"
-    title="SQL / Oracle" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="left">
+  <img alt="Oracle / SQL" title="Oracle / SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" /> &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> &nbsp;
+  <img alt="MySQL" title="MySQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
+  <img alt="Python" title="Python" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;
+  <img alt="Git" title="Git" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
+  <img alt="Linux" title="Linux" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
+  <img alt="HTML5" title="HTML5" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
+  <img alt="CSS3" title="CSS3" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
 
 ---
 
-### 📊 Estatísticas
+### 🚀 Onde me encontrar
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+* 💼 [LinkedIn](https://linkedin.com/in/davycgarcia/)
+* ✉️ [E-mail](mailto:davycgarcia@gmail.com)
