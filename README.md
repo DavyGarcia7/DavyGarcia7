@@ -31,7 +31,3 @@
 
 ---
 
-### 🚀 Onde me encontrar
-
-* 💼 [LinkedIn](https://linkedin.com/in/davycgarcia/)
-* ✉️ [E-mail](mailto:davycgarcia@gmail.com)
