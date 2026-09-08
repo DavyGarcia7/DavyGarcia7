@@ -7,7 +7,7 @@
 <h1 align="LEFT">Data Analyst</h1>
 
 <br>
-### 🛠️ Especialidades & Atuação
+🛠️ Especialidades & Atuação
 
 * **Banco de Dados & SQL:** Criação de queries complexas, JOINs de múltiplas tabelas, views, funções e procedimentos em PL/SQL.
 * **Análise & Modelagem:** Tratamento, higienização, cruzamento de dados e geração de relatórios estratégicos.
